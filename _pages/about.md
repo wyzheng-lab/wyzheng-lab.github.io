@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home Page - Weiye Zheng 郑伟业"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Dr. Weiye Zheng is an Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau.Previously, he received the B.S. and Ph.D. degrees from the Department of Electrical Engineering, Tsinghua University, Beijing, China. He was a recipient of the Outstanding PhD of Beijing City, and the Natural Science First Class Award from Ministry of Education. His research interests include analysis, operation and market in integrated energy systems. He has been an Associate Editor for several journals including IEEE Transactions on Smart Grid and Applied Energy. He has published 1 international book, more than 40 SCI journal papers as the first/corresponding author, and 16 issued patents. Four of the papers was selected as the ESI Highly Cited Papers (Top 1%).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr. Hongxun Hui is Young Editorial Board Member and Guest Editor of high-level journals, including Applied Energy, Protection and Control of Modern Power Systems, Engineering Reports, Integrated Intelligent Energy, etc. He also serves as reviewer for many international journals, including IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Industrial Informatics, Applied Energy, etc. He was the recipient of the Outstanding Reviewer Award from the Journal of Modern Power Systems and Clean Energy, and the Excellent Peer Reviewer Award from CSEE Journal of Power and Energy Systems. Besides, he was elected in the 1st batch of the Academic Rising Star Program for Ph.D. at Zhejiang University in 2018. He got the Best Paper Award of IEEE iSPEC 2021, the First Prize and the Best Innovation Award of the 2021 National AI Application Competition in Power Dispatching, Excellent Paper Award of the Integrated Smart Energy Conference 2023, and Best Paper Award of IEEE EI2 2023.
+
+Here is Dr. Weiye Zheng’s CV[Weiye_Zheng's Curriculum Vitae](https://github.com/wyzheng-lab/wyzheng-lab.github.io/edit/master/assets/CV_Weiye_Zheng_UM_202506_website.pdf)
 
 A data-driven personal website
 ======
