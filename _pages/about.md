@@ -28,8 +28,8 @@ For those users that need more advanced functionality, the template also support
 
 News
 ======
--[2024-05-20] Zifei Wang, Lunshu Chen, Kexin Wang, Daixu Xie, Zifeng Zhang, Fung Chit Hong, and Weirong Chen successfully defended their master thesis. Cheers!
--[2024-05-20] Zifei Wang, Lunshu Chen, Kexin Wang, Daixu Xie, Zifeng Zhang, Fung Chit Hong, and Weirong Chen successfully defended their master thesis. Cheers!
+- [2024-05-20] Zifei Wang, Lunshu Chen, Kexin Wang, Daixu Xie, Zifeng Zhang, Fung Chit Hong, and Weirong Chen successfully defended their master thesis. Cheers!
+- [2024-05-20] Zifei Wang, Lunshu Chen, Kexin Wang, Daixu Xie, Zifeng Zhang, Fung Chit Hong, and Weirong Chen successfully defended their master thesis. Cheers!
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
