@@ -11,7 +11,7 @@ Dr. Weiye Zheng is an Assistant Professor with the State Key Laboratory of Inter
 
 Dr. Hongxun Hui is Young Editorial Board Member and Guest Editor of high-level journals, including Applied Energy, Protection and Control of Modern Power Systems, Engineering Reports, Integrated Intelligent Energy, etc. He also serves as reviewer for many international journals, including IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Industrial Informatics, Applied Energy, etc. He was the recipient of the Outstanding Reviewer Award from the Journal of Modern Power Systems and Clean Energy, and the Excellent Peer Reviewer Award from CSEE Journal of Power and Energy Systems. Besides, he was elected in the 1st batch of the Academic Rising Star Program for Ph.D. at Zhejiang University in 2018. He got the Best Paper Award of IEEE iSPEC 2021, the First Prize and the Best Innovation Award of the 2021 National AI Application Competition in Power Dispatching, Excellent Paper Award of the Integrated Smart Energy Conference 2023, and Best Paper Award of IEEE EI2 2023.
 
-Here is Dr. Weiye Zheng’s CV[Weiye_Zheng's Curriculum Vitae](https://github.com/wyzheng-lab/wyzheng-lab.github.io/edit/master/assets/CV_Weiye_Zheng_UM_202506_website.pdf)
+Here is Dr. Weiye Zheng’s [CV](https://github.com/wyzheng-lab/wyzheng-lab.github.io/edit/master/assets/CV_Weiye_Zheng_UM_202506_website.pdf)
 
 A data-driven personal website
 ======
