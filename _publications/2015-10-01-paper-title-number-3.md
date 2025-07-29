@@ -39,4 +39,4 @@ venue: 'Journal 1'
 - Jizhong Zhu, Hanjiang Dong and **Weiye Zheng***, et al. “[Review and Prospect of Data-Driven Techniques for Load Forecasting in Integrated Energy Systems](https://www.sciencedirect.com/science/article/abs/pii/S0306261922006262),” *Applied Energy*, vol. 321, p. 119269, 2022. (**ESI Highly Cited Paper, 165 citations**)
 - **Weiye Zheng**, Siyu Xu, Jianquan Zhu*, “[Scalable Contract Design for Virtual Power Plant with Numerous Distributed Energy Resources Considering Electricity-Carbon-Green Certificate Multiple Market Trading](https://ieeexplore.ieee.org/abstract/document/10899790),” CSEE Journal of Power and Energy Systems, in press, 2025.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
