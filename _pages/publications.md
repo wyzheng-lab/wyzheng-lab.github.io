@@ -7,8 +7,8 @@ author_profile: true
 
 ## Stability-aware robust scheduling
 
--	Wanjun Huang, Xinran Zhang and **Weiye Zheng***. “[Resilient Power Network Structure for Stable Operation of Energy Systems: A Transfer Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005201),” *Applied Energy*, vol. 296, Art. No. 117065, 2021.
-- Wanjun Huang, **Weiye Zheng*** and David J. Hill, “[Distribution Network Reconfiguration for Short-Term Voltage Stability Enhancement: An Efficient Deep Learning Approach](https://ieeexplore.ieee.org/document/9486905),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5385-5395, 2021.
+-	Wanjun Huang, Xinran Zhang and **Weiye Zheng** *. “[Resilient Power Network Structure for Stable Operation of Energy Systems: A Transfer Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005201),” *Applied Energy*, vol. 296, Art. No. 117065, 2021.
+- Wanjun Huang, **Weiye Zheng** * and David J. Hill, “[Distribution Network Reconfiguration for Short-Term Voltage Stability Enhancement: An Efficient Deep Learning Approach](https://ieeexplore.ieee.org/document/9486905),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5385-5395, 2021.
 - **Weiye Zheng***, Wanjun Huang, David J. Hill and Yunhe Hou. “[An Adaptive Distributionally Robust Model for Three-Phase Distribution Network Reconfiguration](https://ieeexplore.ieee.org/document/9222311),” *IEEE Transactions on Smart Grid*, vol. 12, no. 2, pp. 1224-1237, 2021.
 - Wan Huang, **Weiye Zheng***, David J. Hill, “[Distributionally Robust Optimal Power Flow in Multi-Microgrids with Decomposition and Guaranteed Convergence](https://ieeexplore.ieee.org/document/9149692),” *IEEE Transactions on Smart Grid*, vol. 12, pp. 43-55, 2021. (**ESI Highly Cited Paper**)
 - **Weiye Zheng**, Zhigang Li* and Huansheng Zhou. “[Efficient Robust Look-Ahead Dispatch Incorporating Critical Region Preparation in Gap Time](https://ieeexplore.ieee.org/document/9442927)”, *IEEE Transactions on Power Systems*, vol. 36, pp. 4840-4843, 2021.
