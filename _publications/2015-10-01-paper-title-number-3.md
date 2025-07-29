@@ -1,9 +1,10 @@
 ---
-title: "Stability-aware robust scheduling"
-collection: publications
-category: conferences
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
----
+
 ## Stability-aware robust scheduling
 
 -	Wanjun Huang, Xinran Zhang and **Weiye Zheng***. “[Resilient Power Network Structure for Stable Operation of Energy Systems: A Transfer Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005201),” *Applied Energy*, vol. 296, Art. No. 117065, 2021.
