@@ -1,0 +1,26 @@
+/* ========= Custom styles ========= */
+
+/* 让正文占满宽度 */
+.page__content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* 让归档页面（比如 publications）也占满 */
+.archive {
+  max-width: 100% !important;
+}
+
+/* 调整 main 布局 */
+#main {
+  display: flex;
+}
+
+#main .archive {
+  flex: 1;
+}
+
+#main .sidebar {
+  max-width: 250px;   /* 侧栏固定宽度 */
+  margin-right: 2rem; /* 和正文的间距 */
+}
