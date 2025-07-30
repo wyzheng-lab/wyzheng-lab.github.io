@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Group"
+title: "Group Member"
 permalink: /group/
 author_profile: true
 ---
 
-## Group Member
 **Students:**
 - Boyang SHAN, MPhil Student
 -	Xumin DUAN, MPhil Student
