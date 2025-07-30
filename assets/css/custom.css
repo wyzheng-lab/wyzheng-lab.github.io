@@ -21,6 +21,6 @@
 }
 
 #main .sidebar {
-  max-width: 250px;   /* 侧栏固定宽度 */
-  margin-right: 2rem; /* 和正文的间距 */
+  max-width: 300px;   /* 侧栏固定宽度 */
+  margin-right: 20rem; /* 和正文的间距 */
 }
