@@ -43,6 +43,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  github           : "http://github.com/wyzheng-lab"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +59,6 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  github           : "http://github.com/wyzheng-lab"
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
