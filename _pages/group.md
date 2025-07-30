@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Group Member"
+title: "Group"
 permalink: /group/
 author_profile: true
 ---
+
+## Group Member
 
 **Students:**
 - Boyang SHAN, MPhil Student
