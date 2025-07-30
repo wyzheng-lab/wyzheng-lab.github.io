@@ -29,7 +29,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Building N21-2014d, University of Macau, Avenida da Universidade, Taipa, Macau 999078, CHINA. 中國澳門特別行政區，氹仔，大學大馬路，澳門大學科研大樓北21座-2014d. (大陆通信地址: 广东省珠海市横琴新区环岛东路1889号创意谷8栋，邮编: 519031)"
   #location         : "Macau 999078, CHINA"
- # employer         : "University of Macau"
+  #employer         : "University of Macau"
   uri              : # URL
   email            : "zhengwy13@tsinghua.org.cn " 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/wyzheng-lab"
+  github           : "http://github.com/wyzheng-lab"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
