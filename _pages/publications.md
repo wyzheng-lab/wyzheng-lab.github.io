@@ -36,3 +36,16 @@ author_profile: true
 - **Weiye Zheng**\*, Wenchuan Wu, David J. Hill. “[A Multi-Parametric Programming based Analytic Method to Compute Consumer Offer Curve for Reserves](https://ieeexplore.ieee.org/document/9394931)”, *Journal of Modern Power Systems and Clean Energy*, vol. 10, pp. 542-546, 2022.
 - Jizhong Zhu, Hanjiang Dong and **Weiye Zheng**\*, et al. “[Review and Prospect of Data-Driven Techniques for Load Forecasting in Integrated Energy Systems](https://www.sciencedirect.com/science/article/abs/pii/S0306261922006262),” *Applied Energy*, vol. 321, p. 119269, 2022. (**ESI Highly Cited Paper, 165 citations**)
 - **Weiye Zheng**, Siyu Xu, Jianquan Zhu\*, “[Scalable Contract Design for Virtual Power Plant with Numerous Distributed Energy Resources Considering Electricity-Carbon-Green Certificate Multiple Market Trading](https://ieeexplore.ieee.org/abstract/document/10899790),” CSEE Journal of Power and Energy Systems, in press, 2025.
+
+---
+## Issued Patents
+-	Interior-Point Method Based Robust State Estimation for Power System. Chinese Patent No. 201310367682.5
+-	Distributed Self-Disciplined Voltage Control for Active Distribution Networks. Chinese Patent No. 201510092162.7
+-	Distributed Self-Disciplined Economic Dispatch for Active Distribution Networks. Chinese Patent No. 201510070544.X
+-	Decentralized Robust Bilinear State Estimation for Multi-Area Power System. Chinese Patent No. 201610067806.1
+-	Method and Device for Estimating State of Power System. US patent No. US 20170220521
+-	Distributed congestion dispatch method for distribution network considering distributed generation, Chinese Patent No. 201811145545.6
+-	Distributed congestion control method for distribution network considering demand response, Chinese Patent No. 201811168489.8
+-	Network equivalent for district heating networks considering temperature quasi-dynamics, Chinese Patent No. 202110515553.0
+-	Non-iterative decomposition method for distributed robust electricity-heat scheduling based on network reduction, Chinese Patent No. 202110568689.8
+-	Real-time dispatch method for integrated electricity and heat systems with feasibility guarantee, Chinese Patent No. 202210377586.8
