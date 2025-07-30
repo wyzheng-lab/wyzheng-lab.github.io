@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Stability-aware robust scheduling
+## The University of Hong Kong
 -  *Advanced Topics in Modern Power Systems*, 2020 Spring, 2021 Spring, 36 credit hours.
 
 ---
