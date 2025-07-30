@@ -28,6 +28,16 @@ author_profile: true
 - General Research Fund (Hong Kong), *Hierarchical and Distributed Control of Networked Microgrid Systems*, 673,470 HKD, 2020.01-2023.06
 
 ---
+## Professional Qualifications
+-	Senior Member, *IEEE*, 2023.06
+-	Senior Member, *CSEE*, 2023.08
+-	Senior Member, *CES*, 2022.10
+-	Chartered Engineer, *UK Engineering Council*, 2025.02
+-	Professional Engineer in Electrical Engineering, *Chinese Society of Engineers*, 2024.10
+-	Chartered Financial Analyst (CFA) Level III Candidate, *CFA Institute*, 2017.10
+-	Teacher Qualification, *Department of Education of Guangdong Province*, 2021.10
+
+---
 ## Volunteer Service
 
 **Academic:**
