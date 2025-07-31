@@ -3,6 +3,8 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
+<h1 style="margin-bottom: 0.5rem;">Representative Publications</h1>
+<h2 style="margin-top: 0; margin-bottom: 0.2rem;">Stability-aware robust scheduling</h2>
 
 # Representative Publications
 ## Stability-aware robust scheduling
