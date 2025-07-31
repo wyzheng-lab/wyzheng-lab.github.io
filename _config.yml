@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Weiye Zheng"
+title                    : "W Z"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -43,7 +43,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  github           : "http://github.com/wyzheng-lab"
+  github           : "/wyzheng-lab"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
