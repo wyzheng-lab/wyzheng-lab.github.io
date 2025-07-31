@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-## Stability-aware robust scheduling
+## Representative Publications
+**Stability-aware robust scheduling**
 
 - Wanjun Huang, Xinran Zhang and **Weiye Zheng**\*. “[Resilient Power Network Structure for Stable Operation of Energy Systems: A Transfer Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005201),” *Applied Energy*, vol. 296, Art. No. 117065, 2021.
 - Wanjun Huang, **Weiye Zheng**\* and David J. Hill, “[Distribution Network Reconfiguration for Short-Term Voltage Stability Enhancement: An Efficient Deep Learning Approach](https://ieeexplore.ieee.org/document/9486905),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5385-5395, 2021.
@@ -16,7 +17,7 @@ author_profile: true
 - **Weiye Zheng**, Wenchuan Wu, Antonio Gomez-Exposito, et al. “[Distributed Robust Bilinear State Estimation for Power Systems with Nonlinear Measurements](https://ieeexplore.ieee.org/document/7458119),” *IEEE Transactions on Power Systems*, vol. 32, pp. 499-509, 2017. 
 
 ---
-## Efficient distributed optimization algorithms
+**Efficient distributed optimization algorithms**
 
 - **Weiye Zheng**, Wenchuan Wu\*, Boming Zhang, Hongbin Sun, et al. “[A Fully Distributed Reactive Power Optimization and Control Method for Active Distribution Networks](https://ieeexplore.ieee.org/document/7042735),” *IEEE Transactions on Smart Grid*, vol. 7, pp. 1021-1033, 2016. (**ESI Highly Cited Paper, 400+ citations**)
 - **Weiye Zheng**, Wenchuan Wu\*, “[An Adaptive Distributed Quasi-Newton Method for Power System State Estimation](https://ieeexplore.ieee.org/document/8490715),” *IEEE Transactions on Smart Grid*, vol. 10, no. 5, pp. 5114-5124, 2019. 
@@ -27,7 +28,7 @@ author_profile: true
 - **Weiye Zheng**, Hao Lu, et al. “[Distributed Energy Management Of Multi-Entity Integrated Electricity And Heat Systems: A Review of Architectures, Optimization Algorithms, and Prospects](https://ieeexplore.ieee.org/document/10237300),” *IEEE Transactions on Smart Grid*, vol. 15, pp. 1544-1561, 2024. (**ESI Highly Cited Paper**)
 
 ---
-## Incentive-compatible multi-stakeholder coordination mechanism
+**Incentive-compatible multi-stakeholder coordination mechanism**
 
 - **Weiye Zheng**\*, Siyu Xu, “[Participation of Strategic District Heating Networks in Electricity Markets: An Arbitrage Mechanism and Its Equilibrium Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0306261923010966),” *Applied Energy*, vol. 350, Art. No. 121732, 2023.
 - **Weiye Zheng**, Siyu Xu, Hao Lu, Wenchuan Wu\*, Jianquan Zhu. “[Trading mechanism for social welfare maximization in integrated electricity and heat systems with multiple self-interested stakeholders](https://www.sciencedirect.com/science/article/abs/pii/S0360544224020413),” *Energy*, vol. 306, Art. No. 132267, 2024.
@@ -64,7 +65,7 @@ author_profile: true
 - Open Fund of State Key Laboratory of Power System Operation and Control, *Contract Design Theory for Virtual Power Plant with Numerous Distributed Energy Resources Considering Multiple Market Trading*, 2024.10-2025.12, PI. （新型电力系统运行与控制全国重点实验室开放课题）
 - Open Fund of State Key Laboratory of Power System Operation and Control, *Distributed Mechanism Design and Operation Optimization of Integrated Electricity and Heat Systems Considering Information Asymmetry*, 2022.08-2023.12, PI. （新型电力系统运行与控制全国重点实验室开放课题）
 - Open Fund of State Key Laboratory of Power System and Generation Equipment, *Data-Driven Distributionally Robust Optimization for Active Distribution Networks*, 2020.06-2021.12, PI. （电力系统及大型发电设备安全控制和仿真国家重点实验室开放课题）
-- China Computer Federation-Tencent Rhino-Bird Fund, *Distributed Coordination Dispatch Strategy and Incentive Mechanism for Inter-Regional Power Grids Supporting East-West Computing Resources Transmission*, 2022.10-2023.12, PI. （中国计算器学会-腾讯犀牛鸟基金）
+- China Computer Federation-Tencent Rhino-Bird Fund, *Distributed Coordination Dispatch Strategy and Incentive Mechanism for Inter-Regional Power Grids Supporting East-West Computing Resources Transmission*, 2022.10-2023.12, PI. （中国计算机学会-腾讯犀牛鸟基金）
 - State Grid Scientific and Technological Project, *Efficient Utilization Assessment Framework for Power Grid with High Renewables*, 2022.08-2022.12, PI. （国家电网科技项目）
 - Double First-Class Initiative Construction Program, *Distributionally Robust Optimization for Integrated Energy Systems*, 2021.03-2025.12, PI. （双一流建设项目）
 
