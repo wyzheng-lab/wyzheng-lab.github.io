@@ -23,7 +23,6 @@ author_profile: true
 
 ---
 ## Volunteer Service
-**Non-academic**
 - Director of Tsinghua Alumni Association, 2018-2023
 - Commissary in charge of organization in the Faculty Party Branch, 2021.11-2025.07
 - Secretary in the Student Party Branch, 2021.09-2024.06
