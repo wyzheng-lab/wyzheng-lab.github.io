@@ -11,7 +11,7 @@ author_profile: true
 ---
 
 ## South China University of Technology
-- *Distributed Smart Grid Energy Management*, Education Reform Project, 10,000 CNY, 2024.10-2025.09, PI. （华南理工大学科教融合型教育改革项目）
+- *Distributed Smart Grid Energy Management*, Education Reform Project, 10,000 CNY, 2024.10-2025.09, PI. （華南理工大學科教融合型教育改革項目）
 - *Production and Utilization of Electric Power*, 2021 Fall, 2022 Fall, 2023 Fall, 2024 Fall, 22 credit hours.
 - *Electric Circuit and Electronics*, 2021 Fall, 2022 Fall, 2023 Fall, 192 credit hours.
 - *Power System Analysis*, 2023 Fall, 2024 Fall, 72 credit hours.
