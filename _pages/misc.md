@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
 permalink: /miscellaneous/
 author_profile: true
 ---
+<h1 style="margin-bottom: 1.5rem;">Teaching</h1>
+<h2 style="margin-top: 0; margin-bottom: 0.2rem;">The University of Hong Kong</h2>
 
-## The University of Hong Kong
 -  *Advanced Topics in Modern Power Systems*, 2020 Spring, 2021 Spring, 36 credit hours.
-
----
 
 ## South China University of Technology
 - *Distributed Smart Grid Energy Management*, Education Reform Project, 10,000 CNY, 2024.10-2025.09, PI. （華南理工大學科教融合型教育改革項目）
@@ -22,7 +20,7 @@ author_profile: true
 - My Students’ Honors: *National Scholarship for Graduate Student* (Hao Lu 2023’ and Siyu Xu 2024’, Top 2% Honor in the university), *Outstanding Thesis Award* (Yan Bai 2022’, Jie Wang 2022’ and Endu Xu 2023’), *Outstanding Graduate* (Hao Lu 2024’).
 
 ---
-## Volunteer Service
+# Volunteer Service
 - Director of Tsinghua Alumni Association, 2018-2023
 - Commissary in charge of organization in the Faculty Party Branch, 2021.11-2025.07
 - Secretary in the Student Party Branch, 2021.09-2024.06
