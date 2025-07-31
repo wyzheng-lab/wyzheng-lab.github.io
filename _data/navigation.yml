@@ -25,7 +25,9 @@ main:
 
   - title: "Experience"
     url: /experience/ 
-  
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/ 
     
   #- title: "Portfolio"
    # url: /portfolio/
