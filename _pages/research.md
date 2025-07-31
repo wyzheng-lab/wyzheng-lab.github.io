@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-## Representative Publications
-# Stability-aware robust scheduling
+# Representative Publications
+## Stability-aware robust scheduling
 
 - Wanjun Huang, Xinran Zhang and **Weiye Zheng**\*. “[Resilient Power Network Structure for Stable Operation of Energy Systems: A Transfer Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005201),” *Applied Energy*, vol. 296, Art. No. 117065, 2021.
 - Wanjun Huang, **Weiye Zheng**\* and David J. Hill, “[Distribution Network Reconfiguration for Short-Term Voltage Stability Enhancement: An Efficient Deep Learning Approach](https://ieeexplore.ieee.org/document/9486905),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5385-5395, 2021.
@@ -17,7 +17,7 @@ author_profile: true
 - **Weiye Zheng**, Wenchuan Wu, Antonio Gomez-Exposito, et al. “[Distributed Robust Bilinear State Estimation for Power Systems with Nonlinear Measurements](https://ieeexplore.ieee.org/document/7458119),” *IEEE Transactions on Power Systems*, vol. 32, pp. 499-509, 2017. 
 
 ---
-# Efficient distributed optimization algorithms
+## Efficient distributed optimization algorithms
 
 - **Weiye Zheng**, Wenchuan Wu\*, Boming Zhang, Hongbin Sun, et al. “[A Fully Distributed Reactive Power Optimization and Control Method for Active Distribution Networks](https://ieeexplore.ieee.org/document/7042735),” *IEEE Transactions on Smart Grid*, vol. 7, pp. 1021-1033, 2016. (**ESI Highly Cited Paper, 400+ citations**)
 - **Weiye Zheng**, Wenchuan Wu\*, “[An Adaptive Distributed Quasi-Newton Method for Power System State Estimation](https://ieeexplore.ieee.org/document/8490715),” *IEEE Transactions on Smart Grid*, vol. 10, no. 5, pp. 5114-5124, 2019. 
@@ -28,7 +28,7 @@ author_profile: true
 - **Weiye Zheng**, Hao Lu, et al. “[Distributed Energy Management Of Multi-Entity Integrated Electricity And Heat Systems: A Review of Architectures, Optimization Algorithms, and Prospects](https://ieeexplore.ieee.org/document/10237300),” *IEEE Transactions on Smart Grid*, vol. 15, pp. 1544-1561, 2024. (**ESI Highly Cited Paper**)
 
 ---
-# Incentive-compatible multi-stakeholder coordination mechanism
+## Incentive-compatible multi-stakeholder coordination mechanism
 
 - **Weiye Zheng**\*, Siyu Xu, “[Participation of Strategic District Heating Networks in Electricity Markets: An Arbitrage Mechanism and Its Equilibrium Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0306261923010966),” *Applied Energy*, vol. 350, Art. No. 121732, 2023.
 - **Weiye Zheng**, Siyu Xu, Hao Lu, Wenchuan Wu\*, Jianquan Zhu. “[Trading mechanism for social welfare maximization in integrated electricity and heat systems with multiple self-interested stakeholders](https://www.sciencedirect.com/science/article/abs/pii/S0360544224020413),” *Energy*, vol. 306, Art. No. 132267, 2024.
@@ -39,7 +39,7 @@ author_profile: true
 - **Weiye Zheng**, Siyu Xu, Jianquan Zhu\*, “[Scalable Contract Design for Virtual Power Plant with Numerous Distributed Energy Resources Considering Electricity-Carbon-Green Certificate Multiple Market Trading](https://ieeexplore.ieee.org/abstract/document/10899790),” CSEE Journal of Power and Energy Systems, in press, 2025.
 
 ---
-## Issued Patents
+# Issued Patents
 -	Interior-Point Method Based Robust State Estimation for Power System. Chinese Patent No. 201310367682.5
 -	Distributed Self-Disciplined Voltage Control for Active Distribution Networks. Chinese Patent No. 201510092162.7
 -	Distributed Self-Disciplined Economic Dispatch for Active Distribution Networks. Chinese Patent No. 201510070544.X
@@ -52,9 +52,9 @@ author_profile: true
 -	Real-time dispatch method for integrated electricity and heat systems with feasibility guarantee, Chinese Patent No. 202210377586.8
 
 ---
-## Research Grants
+# Research Grants
 
-# Principle Investigator
+## Principle Investigator
 
 - Natural Science Foundation of China (NSFC) Youth Program, *Asynchronous Distributed Dispatch of Integrated Electricity and Heat Systems Based on Heating Network Feasible Region Projection*, 2022.01-2024.12, PI. （国家自然科学基金青年项目）
 - Task of Smart Grid-National Science and Technology Major Project, *Provincial Power System Multi-Dimensional Assessment Framework Towards Deep Low Carbon Objective*, 2024.12-2028.12, PI. （智能电网国家科技重大专项子课题）
@@ -69,7 +69,7 @@ author_profile: true
 - State Grid Scientific and Technological Project, *Efficient Utilization Assessment Framework for Power Grid with High Renewables*, 2022.08-2022.12, PI. （国家电网科技项目）
 - Double First-Class Initiative Construction Program, *Distributionally Robust Optimization for Integrated Energy Systems*, 2021.03-2025.12, PI. （双一流建设项目）
 
-# Major Participant
+## Major Participant
 
 - Research Grants Council (Hong Kong) Theme-based Research Scheme, *Sustainable Power Delivery Structures for High Renewables*, 2015.01-2019.12
 - General Research Fund (Hong Kong), *Hierarchical and Distributed Control of Networked Microgrid Systems*, 2020.01-2023.06
