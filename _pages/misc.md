@@ -20,3 +20,13 @@ author_profile: true
 - *New Type Power System Analysis and Optimal Dispatch*, 2024 Spring, 8 credit hours.
 - *Optimal Power Flow for Large-Scale Power System* (Graduate Course), 2024 Spring, 16 credit hours.
 - My Students’ Honors: *National Scholarship for Graduate Student* (Hao Lu 2023’ and Siyu Xu 2024’, Top 2% Honor in the university), *Outstanding Thesis Award* (Yan Bai 2022’, Jie Wang 2022’ and Endu Xu 2023’), *Outstanding Graduate* (Hao Lu 2024’).
+
+---
+## Volunteer Service
+**Non-academic**
+- Director of Tsinghua Alumni Association, 2018-2023
+- Commissary in charge of organization in the Faculty Party Branch, 2021.11-2025.07
+- Secretary in the Student Party Branch, 2021.09-2024.06
+- Guangdong poverty alleviation charity activities, each year in 2021-2024
+- Volunteer in fighting against COVID-19, 2022
+- University service: interviewer for graduate entrance exams, organizer for important meetings, etc. Full marks in each annual evaluation
