@@ -19,6 +19,7 @@ We continuously offer multiple opportunities for Postdoctoral Fellows, PhD Candi
 PhD Recruitment for outstanding undergraduate and master students for the 2026/2027 academic year (2026/2027學年博士生招生，包括直博和碩轉博) is now open. Application deadlines are as follows: **First round — October 31, 2025; Second round — February 29, 2026**. Successful candidates will be fully supported through the UM PhD Scholarship or Assistantship. Language requirements are listed as follows:
 - Obtained a TOEFL* score of 550 (paper-based examination) / 80 (Internet-based examination) or above or,
 - An IELTS* overall score of 6.0 or above with no sub-score lower than 5.5 or, College English Test (CET) 6 score of 430 or above is also accepted
+
 *Note: TOEFL and IELTS scores are valid for two years from the test date.
 
 In addition, we currently have an open postdoctoral position focusing on the operation and management of integrated energy systems, active distribution networks, and electricity market. The initial contract is for two years, with possible renewal based on performance and funding.
