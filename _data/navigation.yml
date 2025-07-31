@@ -20,10 +20,10 @@ main:
   - title: "Research"
     url: /research/ 
 
-    - title: "Group"
+  - title: "Group"
     url: /group/ 
 
- - title: "Miscellaneous"
+  - title: "Miscellaneous"
     url: /miscellaneous/ 
     
   #- title: "Teaching"
