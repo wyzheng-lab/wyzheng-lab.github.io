@@ -23,7 +23,7 @@ In addition, we currently have an open postdoctoral position focusing on the ope
 
 News
 ======
-- **[2024-06-02]** Siyu XU successfully defended her master thesis. Cheers!
-- **[2023-06-04]** Hao LU successfully defended his master thesis. Cheers!
+- **[2025-06-02]** Siyu XU successfully defended her master thesis. Cheers!
+- **[2024-06-04]** Hao LU successfully defended his master thesis. Cheers!
 
 
