@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h1 style="margin-bottom: 2rem;">Representative Publications</h1>
+<h1 style="margin-bottom: 1.5rem;">Representative Publications</h1>
 <h2 style="margin-top: 0; margin-bottom: 0.2rem;">Stability-aware robust scheduling</h2>
 
 
@@ -52,22 +52,20 @@ author_profile: true
 -	Real-time dispatch method for integrated electricity and heat systems with feasibility guarantee, Chinese Patent No. 202210377586.8
 
 ---
-# Research Grants
-
-## Principle Investigator
-
-- Natural Science Foundation of China (NSFC) Youth Program, *Asynchronous Distributed Dispatch of Integrated Electricity and Heat Systems Based on Heating Network Feasible Region Projection*, 2022.01-2024.12, PI. （国家自然科学基金青年项目）
-- Task of Smart Grid-National Science and Technology Major Project, *Provincial Power System Multi-Dimensional Assessment Framework Towards Deep Low Carbon Objective*, 2024.12-2028.12, PI. （智能电网国家科技重大专项子课题）
-- Guangdong Basic and Applied Basic Research Foundation Offshore Wind Power General Program, *Power Grid Resilience Enhancement and Multi-Entity Coordination Mechanism Accommodating Large-Scale Offshore Wind Power*, 2022.10-2025.09, PI. （广东省基础与应用基础研究基金海上风电联合基金面上项目）
-- Guangdong Basic and Applied Basic Research Foundation General Program, *Incentive-Compatible Distributed Coordination Mechanism for Electricity-Heat Multi-Energy Synergy in New Type Power System*, 2023.01-2025.12, PI. （广东省基础与应用基础研究基金面上项目）
-- Open Fund of State Key Laboratory of HVDC, *Short-Term Voltage Stability Constraint Modeling and Mechanism Analysis for Low-Inertia Power System Operation Dispatch*, 2023.01-2024.12, PI. （直流输电技术全国重点实验室开放课题）
-- Guangzhou Science and Technology Planning Project, *Urban Power Grid Structure Optimization Considering Voltage Dynamics and Resilience*, 2022.06-2024.03, PI. （广州市基础研究计划基础与应用基础研究项目）
-- Open Fund of State Key Laboratory of Power System Operation and Control, *Contract Design Theory for Virtual Power Plant with Numerous Distributed Energy Resources Considering Multiple Market Trading*, 2024.10-2025.12, PI. （新型电力系统运行与控制全国重点实验室开放课题）
-- Open Fund of State Key Laboratory of Power System Operation and Control, *Distributed Mechanism Design and Operation Optimization of Integrated Electricity and Heat Systems Considering Information Asymmetry*, 2022.08-2023.12, PI. （新型电力系统运行与控制全国重点实验室开放课题）
-- Open Fund of State Key Laboratory of Power System and Generation Equipment, *Data-Driven Distributionally Robust Optimization for Active Distribution Networks*, 2020.06-2021.12, PI. （电力系统及大型发电设备安全控制和仿真国家重点实验室开放课题）
-- China Computer Federation-Tencent Rhino-Bird Fund, *Distributed Coordination Dispatch Strategy and Incentive Mechanism for Inter-Regional Power Grids Supporting East-West Computing Resources Transmission*, 2022.10-2023.12, PI. （中国计算机学会-腾讯犀牛鸟基金）
-- State Grid Scientific and Technological Project, *Efficient Utilization Assessment Framework for Power Grid with High Renewables*, 2022.08-2022.12, PI. （国家电网科技项目）
-- Double First-Class Initiative Construction Program, *Distributionally Robust Optimization for Integrated Energy Systems*, 2021.03-2025.12, PI. （双一流建设项目）
+<h1 style="margin-bottom: 1.5rem;">Research Grants</h1>
+<h2 style="margin-top: 0; margin-bottom: 0.2rem;">Principle Investigator</h2>
+- Natural Science Foundation of China (NSFC) Youth Program, *Asynchronous Distributed Dispatch of Integrated Electricity and Heat Systems Based on Heating Network Feasible Region Projection*, 2022.01-2024.12, PI. （國家自然科學基金青年項目）
+- Task of Smart Grid-National Science and Technology Major Project, *Provincial Power System Multi-Dimensional Assessment Framework Towards Deep Low Carbon Objective*, 2024.12-2028.12, PI. （智能電網國家科技重大專項子課題）
+- Guangdong Basic and Applied Basic Research Foundation Offshore Wind Power General Program, *Power Grid Resilience Enhancement and Multi-Entity Coordination Mechanism Accommodating Large-Scale Offshore Wind Power*, 2022.10-2025.09, PI. （廣東省基礎與應用基礎研究基金海上風電聯合基金面上項目）
+- Guangdong Basic and Applied Basic Research Foundation General Program, *Incentive-Compatible Distributed Coordination Mechanism for Electricity-Heat Multi-Energy Synergy in New Type Power System*, 2023.01-2025.12, PI. （廣東省基礎與應用基礎研究基金面上項目）
+- Open Fund of State Key Laboratory of HVDC, *Short-Term Voltage Stability Constraint Modeling and Mechanism Analysis for Low-Inertia Power System Operation Dispatch*, 2023.01-2024.12, PI. （直流輸電技術全國重點實驗室開放課題）
+- Guangzhou Science and Technology Planning Project, *Urban Power Grid Structure Optimization Considering Voltage Dynamics and Resilience*, 2022.06-2024.03, PI. （廣州市基礎研究計劃基礎與應用基礎研究項目）
+- Open Fund of State Key Laboratory of Power System Operation and Control, *Contract Design Theory for Virtual Power Plant with Numerous Distributed Energy Resources Considering Multiple Market Trading*, 2024.10-2025.12, PI. （新型電力繫統運行與控制全國重點實驗室開放課題）
+- Open Fund of State Key Laboratory of Power System Operation and Control, *Distributed Mechanism Design and Operation Optimization of Integrated Electricity and Heat Systems Considering Information Asymmetry*, 2022.08-2023.12, PI. （新型電力繫統運行與控制全國重點實驗室開放課題）
+- Open Fund of State Key Laboratory of Power System and Generation Equipment, *Data-Driven Distributionally Robust Optimization for Active Distribution Networks*, 2020.06-2021.12, PI. （電力繫統及大型發電設備安全控制和仿真國家重點實驗室開放課題）
+- China Computer Federation-Tencent Rhino-Bird Fund, *Distributed Coordination Dispatch Strategy and Incentive Mechanism for Inter-Regional Power Grids Supporting East-West Computing Resources Transmission*, 2022.10-2023.12, PI. （中國計算機學會-騰訊犀牛鳥基金）
+- State Grid Scientific and Technological Project, *Efficient Utilization Assessment Framework for Power Grid with High Renewables*, 2022.08-2022.12, PI. （國家電網科技項目）
+- Double First-Class Initiative Construction Program, *Distributionally Robust Optimization for Integrated Energy Systems*, 2021.03-2025.12, PI. （雙一流建設項目）
 
 ## Major Participant
 
