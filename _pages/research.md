@@ -3,11 +3,10 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-<h1 style="margin-bottom: 1rem;">Representative Publications</h1>
+
+<h1 style="margin-bottom: 2rem;">Representative Publications</h1>
 <h2 style="margin-top: 0; margin-bottom: 0.2rem;">Stability-aware robust scheduling</h2>
 
-# Representative Publications
-## Stability-aware robust scheduling
 
 - Wanjun Huang, Xinran Zhang and **Weiye Zheng**\*. “[Resilient Power Network Structure for Stable Operation of Energy Systems: A Transfer Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0306261921005201),” *Applied Energy*, vol. 296, Art. No. 117065, 2021.
 - Wanjun Huang, **Weiye Zheng**\* and David J. Hill, “[Distribution Network Reconfiguration for Short-Term Voltage Stability Enhancement: An Efficient Deep Learning Approach](https://ieeexplore.ieee.org/document/9486905),” *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5385-5395, 2021.
