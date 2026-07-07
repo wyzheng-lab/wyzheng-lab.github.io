@@ -20,3 +20,15 @@ author_profile: true
 - *New Type Power System Analysis and Optimal Dispatch*, 2024 Spring, 8 credit hours.
 - *Optimal Power Flow for Large-Scale Power System* (Graduate Course), 2024 Spring, 16 credit hours.
 - My Students’ Honors: *National Scholarship for Graduate Student* (Hao Lu 2023’ and Siyu Xu 2024’, Top 2% Honor in the university), *Outstanding Thesis Award* (Yan Bai 2022’, Jie Wang 2022’ and Endu Xu 2023’), *Outstanding Graduate* (Hao Lu 2024’).
+
+---
+
+## University of Macau
+**Courses Taught:**
+- *Advanced Topics in Electrical and Computer Engineering* (Doctoral Course)
+- *Research Writing* (Doctoral Course)
+
+**Upcoming Courses:**
+- *Introduction to Power System Dynamics and Control* (Undergraduate Course)
+- *Introduction to Electricity Markets and Low-Carbon Management* (Undergraduate Course)
+- *Power System Operation and Control* (Master's Course)
