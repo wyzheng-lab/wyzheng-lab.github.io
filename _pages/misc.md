@@ -22,6 +22,7 @@ author_profile: true
 <strong>Courses Taught:</strong>
 - *Advanced Topics in Electrical and Computer Engineering* (Doctoral Course)
 - *Research Writing* (Doctoral Course)
+
 <strong>Upcoming Courses:</strong>
 - *Introduction to Power System Dynamics and Control* (Undergraduate Course)
 - *Introduction to Electricity Markets and Low-Carbon Management* (Undergraduate Course)
