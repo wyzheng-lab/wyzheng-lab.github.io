@@ -19,10 +19,10 @@ author_profile: true
 - My Students’ Honors: *National Scholarship for Graduate Student* (Hao Lu 2023’ and Siyu Xu 2024’, Top 2% Honor in the university), *Outstanding Thesis Award* (Yan Bai 2022’, Jie Wang 2022’ and Endu Xu 2023’), *Outstanding Graduate* (Hao Lu 2024’).
 
 <h2 style="margin-top: 0; margin-bottom: 0.2rem;">University of Macau</h2>
-<strong>Courses Taught:<strong>
+<strong>Courses Taught:</strong>
 - *Advanced Topics in Electrical and Computer Engineering* (Doctoral Course)
 - *Research Writing* (Doctoral Course)
-<strong>Upcoming Courses:<strong>
+<strong>Upcoming Courses:</strong>
 - *Introduction to Power System Dynamics and Control* (Undergraduate Course)
 - *Introduction to Electricity Markets and Low-Carbon Management* (Undergraduate Course)
 - *Power System Operation and Control* (Master's Course)
