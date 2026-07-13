@@ -16,7 +16,7 @@ We continuously offer multiple opportunities for Postdoctoral Fellows, PhD Candi
 
 ## PhD Recruitment
 
-PhD Recruitment for outstanding undergraduate and master students for the 2026/2027 academic year (2026/2027學年博士生招生，包括直博和碩轉博) is now open. Application deadlines are as follows: **July 31, 2026**.
+PhD Recruitment for outstanding undergraduate and master students for the 2027/2028 academic year (2027/2028學年博士生招生，包括直博和碩轉博) is now open. Application deadlines are as follows: **October 23, 2026**.
 Successful candidates will be fully supported through  either the **“UM PhD Scholarship”** (MOP 20,000 per month for up to 48 months) or the **“PhD Assistantship”** (MOP 12,500-14,000 per month for up to 48 months). 
 
 Applicants are expected to meet the following requirements:
